@@ -7,11 +7,11 @@
 
 ## API Documentation
 
-- [https://github.com/abhi9720/BankingPortal-API/wiki](https://github.com/abhi9720/BankingPortal-API/wiki)
+- [https://github.com/devashish1711/Digital-Banking-Portal/wiki](https://github.com/devashish1711/Digital-Banking-Portal/wiki)
 
 ## Banking Portal UI
 
-- [https://github.com/abhi9720/BankingPortal-UI](https://github.com/abhi9720/BankingPortal-UI)
+- [https://github.com/devashish1711/Digital-Banking-Portal](https://github.com/devashish1711/Digital-Banking-Portal)
 
 ![image](https://github.com/abhi9720/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
 
