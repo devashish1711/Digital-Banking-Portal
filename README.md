@@ -11,9 +11,9 @@
 
 ## Banking Portal UI
 
-- [https://github.com/devashish1711/Digital-Banking-Portal](https://github.com/devashish1711/Digital-Banking-Portal)
+- [https://github.com/abhi9720/BankingPortal-UI](https://github.com/abhi9720/BankingPortal-UI)
 
-![image](https://github.com/devashish1711/Digital-Banking-Portal)
+![image](https://github.com/abhi9720/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
 
 ***
 
@@ -58,7 +58,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 ## Error Handling
 
-The API implements global exception handling for common error scenarios, such as account not found, unauthorized access, and insufficient balance.
+The API implements global exception handling for common error scenarios, such as account not found, unauthorised access, and insufficient balance.
 
 ## How to Contribute
 
@@ -82,12 +82,12 @@ We welcome and encourage developers to contribute to the project and help us mak
 
    Replace `your-new-feature` with a descriptive name for your contribution.
 
-👉🏻**Make Changes**: Now, make the desired changes to the codebase using your favorite code editor.
+👉🏻**Make Changes**: Now, make the desired changes to the codebase using your favourite code editor.
 
 👉🏻**Commit Changes**: After making the changes, save your work and commit the changes with a meaningful commit message:
 
    ```sh
-   git add .
+   git add.
    git commit -m "Add your commit message here"
    ```
 
